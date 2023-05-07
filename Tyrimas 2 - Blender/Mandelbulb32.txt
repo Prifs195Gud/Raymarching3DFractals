@@ -1,0 +1,19 @@
+// uint scene
+// uint resolutionX
+// uint resolutionY
+// uint threadsPerBlock
+// uint repeatCount
+// uint maxRaySteps
+// uint minRayStep
+// Vector3(float x,y,z) camPos
+// Vector3(float x,y,z) camRot
+// bool lightingOn
+// bool ditheringOn
+// bool AmbientOcclusionOn
+// bool saveImage
+
+12 128 128 32 16 200 0.001 -3 4 -3 0 0.785 0 1 1 1 1
+12 256 256 32 16 200 0.001 -3 4 -3 0 0.785 0 1 1 1 1
+12 512 512 32 16 200 0.001 -3 4 -3 0 0.785 0 1 1 1 1
+12 1024 1024 32 16 200 0.001 -3 4 -3 0 0.785 0 1 1 1 1
+12 1920 1080 32 16 200 0.001 -3 4 -3 0 0.785 0 1 1 1 1
