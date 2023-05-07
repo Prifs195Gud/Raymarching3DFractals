@@ -1,4 +1,7 @@
 [LT/EN]
+
+![Pvz nuotrauka](https://raw.githubusercontent.com/Prifs195Gud/Raymarching3DFractals/main/Mandelbulb.JPG?token=GHSAT0AAAAAACCKIZ4UNZNUIXNODF5NAHBIZCXN3MA)
+
 # Trimačių Fraktalų Atvaizdavimas Spindulio Žygio Metodu
 
 Programa turi du rėžimus: apžvalginis ir darbo. Paleidus paprastai bus apžvalginis rėžimas. Numetus ant .exe konfigūracijos failą bus darbo.
