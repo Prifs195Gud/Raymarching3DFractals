@@ -16,8 +16,8 @@
 
 using namespace std;
 
-#define BASE_RESOLUTION_X 1920 
-#define BASE_RESOLUTION_Y 1080 
+#define BASE_RESOLUTION_X 1280 
+#define BASE_RESOLUTION_Y 1024 
 #define BASE_RESOLUTION Vector2(BASE_RESOLUTION_X, BASE_RESOLUTION_Y)
 
 #define SAVE_IMAGE_RESOLUTION_X 3840 // 4K
@@ -94,11 +94,11 @@ private:
 
 	float currentMinRayStep;
 
-	const float maxSpeed = 3.0f;
-	const float acceleration = 20.0f;
+	const float maxSpeed = 2.0f;
+	const float acceleration = 5.0f;
 
-	const float maxRotSpeed = PI / 1.75f;
-	const float rotAcceleration = PI * 20.f;
+	const float maxRotSpeed = PI / 3.0f;
+	const float rotAcceleration = PI * 2.f;
 
 public:
 	static void Start(vector<string> arguments);

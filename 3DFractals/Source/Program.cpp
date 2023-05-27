@@ -31,10 +31,9 @@ void Program::CommonConstructor()
 
 	currentMaxRaySteps = MAX_RAY_STEPS;
 	currentThreadsPerBlock = THREAD_COUNT;
-	currentScene = 12;
+	currentScene = 6;
 
-	cameraPos = Vector3(-0.164029f, 1.00324f, -1.006772f);
-	cameraRot = Vector3(0.265318f, -0.988902f, 0.0f);
+	cameraPos = Vector3(0, 0, -3);
 
 	deltatime = 1.0f;
 }
