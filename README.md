@@ -1,6 +1,6 @@
 [LT/EN]
 
-![Pvz nuotrauka](https://raw.githubusercontent.com/Prifs195Gud/Raymarching3DFractals/main/Mandelbulb.JPG?token=GHSAT0AAAAAACCKIZ4UNZNUIXNODF5NAHBIZCXN3MA)
+![Pvz nuotrauka](https://github.com/Prifs195Gud/Raymarching3DFractals/blob/main/Mandelbulb.JPG?raw=true)
 
 # Trimačių Fraktalų Atvaizdavimas Spindulio Žygio Metodu
 
